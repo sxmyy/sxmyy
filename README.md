@@ -1,3 +1,2 @@
 # manuelgumes
-<h5> caneta azul </h5>
-<b> manoel gomes </b>
+<strong> <h5> caneta azul </h5> </strog>
