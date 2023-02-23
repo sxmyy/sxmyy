@@ -1,4 +1,5 @@
-# <strong>Manoel Gomes</strong>
-#### - canetero
-#### - azul
-#### - abusa igual o robinho
+# <strong>João Victor</strong>
+#### Cursando Desenvolvimento de Sistemas
+
+            <i class="devicon-javascript-plain"></i>
+          
