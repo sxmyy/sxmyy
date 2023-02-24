@@ -18,4 +18,5 @@
 
 ## ↶ Conhecimento Básico ↷
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80px" height="80px" align="left" />
-         
+    
+# REDE SOCIAIS
