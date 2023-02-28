@@ -12,9 +12,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="80px" height="80px"  />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80px" height="80px"  /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80px" height="80px"  />
+  
 
-
+  
 
 <div align="left">
 <img src="C:\Users\JoaoV\OneDrive\Área_de_Trabalho\linha_reta.png" width="700px" />
