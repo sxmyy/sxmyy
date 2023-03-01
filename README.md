@@ -1,6 +1,6 @@
 # ——————————————————————————————
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxmyy&show_icons=true&theme=transparent) <div align="center"> 
-# Cursando Desenvolvimento de sistemas
+# Cursando Desenvolvimento de Sistemas
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="80px" height="80px" center="80px"  />
 
