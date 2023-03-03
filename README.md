@@ -14,7 +14,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80px" height="80px"  />
   
-
+  
+  # Produzindo um jogo - Equipe  ↴
+  ## ┃ https://github.com/tch0la - https://github.com/RamonTurek ┃
+  
   
 
 <div align="left">
