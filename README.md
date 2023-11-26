@@ -22,9 +22,3 @@
 <div align="left">
 <img src="C:\Users\JoaoV\OneDrive\Área_de_Trabalho\linha_reta.png" width="600px" />
 </div>
-
-![giphy](https://user-images.githubusercontent.com/125697762/221998788-d4c61bc2-355d-481f-ab68-2da97d26cafe.gif)
-
-<div align="center">
-<img src="https://w0.peakpx.com/wallpaper/863/398/HD-wallpaper-grateful-miyamoto-musashi-slam-dunk-takehiko-inoue-vagabond.jpg" width="650px" />
-</div>
