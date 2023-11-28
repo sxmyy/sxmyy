@@ -15,7 +15,7 @@
   
   
   # Produzindo um jogo - Equipe  ↴
-  ## ┃ https://github.com/tch0la - https://github.com/RamonTurek ┃
+  ## ┃ github.com/tch0la - github.com/David548K ┃
   
   
 
