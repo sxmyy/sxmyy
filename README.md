@@ -14,8 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80px" height="80px"  />
   
   
-  # Produzindo um jogo - Equipe  ↴
-  ## ┃ github.com/tch0la - github.com/David548K ┃
+
   
   
 
